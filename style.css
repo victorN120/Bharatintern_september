@@ -14,7 +14,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url("Netflixbackgroundimage2.jpg");
+    url("assets/Netflixbackgroundimage2.jpg");
   background-size: cover;
   background-position: center;
   padding: 0px 8%;
@@ -170,7 +170,7 @@ nav {
   margin-left: 30px;
   width: 520px;
   height: 360px;
-  background-image: url("tv.png");
+  background-image: url("assets/tv.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -272,7 +272,7 @@ nav {
   margin-left: 30px;
   width: 520px;
   height: 360px;
-  background-image: url("portable.png");
+  background-image: url("assets/portable.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -528,7 +528,7 @@ input[type="radio"] {
     margin-right: 10px;
     width: 360px;
     height: 280px;
-    background-image: url("tv.png?width='360'&height='280'");
+    background-image: url("assts/tv.png?width='360'&height='280'");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -600,7 +600,7 @@ input[type="radio"] {
     width: 360px;
     height: 280px;
     margin-right: 10px;
-    background-image: url("portable.png?width='360'&height='280'");
+    background-image: url("assets/portable.png?width='360'&height='280'");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
